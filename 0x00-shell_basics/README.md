@@ -1,1 +1,1 @@
-digits only
+a new directory
