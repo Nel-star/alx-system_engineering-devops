@@ -1,1 +1,1 @@
-printing list of files
+printing changing directories
