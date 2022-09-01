@@ -1,1 +1,1 @@
-move a directory
+moving directory
